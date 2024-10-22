@@ -1,6 +1,6 @@
-# Ecommerce Project(react+redux)
+# Ecommerce Project(react,redux, firebase, razor pay)
 
-This is a complete e-commerce project built with React and Redux. It includes various features such as product listing, cart management, user authentication, and payment integration.
+This is a complete e-commerce project built with React Redux along with firebase. It includes various features such as product listing, cart management, user authentication, and payment integration(Razorpay).
 
 ## Project Structure
 
